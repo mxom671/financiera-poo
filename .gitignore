@@ -1,0 +1,27 @@
+# Archivos compilados
+*.class
+
+# Carpetas de construcción
+build/
+dist/
+target/
+
+# Archivos y carpetas del IDE NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+*.nb-gradle/
+*.nbm/
+
+# Archivos de otros IDE
+.idea/
+*.iml
+*.classpath
+*.project
+
+# Archivos temporales y logs
+*.log
+.DS_Store
+Thumbs.db
+
